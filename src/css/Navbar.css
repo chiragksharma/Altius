@@ -1,0 +1,15 @@
+.Logo{
+    vertical-align: middle;
+    border-style: nonde;
+    height: 100%;
+}
+.navbox{
+    height: 3.5rem;
+    display: block;
+    margin-top: 1rem !important;
+    padding: 10px;
+    margin-left: 4rem !important;
+    margin: 23px;
+
+
+}

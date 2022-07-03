@@ -1,0 +1,114 @@
+.investdiv{
+    margin-left: 4rem;
+    margin-right: 4rem;
+    text-align: center;
+    display: block;
+}
+.investin{
+    z-index: '999';
+}
+
+#test{
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+.investDetail{
+    color: grey;
+    font-size: 1.2rem;
+}
+
+.arrowDivRight{
+    margin-left: 60%;
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+}
+.circles{
+    padding: 10px;
+    margin: 80px;
+    width: 6rem;
+    height: 6rem;
+    border: 2px solid #ebebeb;
+    border-radius: 15px;
+    box-shadow: 0 4px 4px rgb(0 0 0 / 25%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 0.5rem;
+}
+
+.aboutTextpace {
+    margin: 4rem 0!important;
+}
+.text-left {
+    text-align: left!important;
+}
+.aboutCont {
+    margin-right: 2rem;
+}
+
+.welcome-sub-heading {
+    top: -10px!important;
+    color: #aeaeae!important;
+    position: relative!important;
+    line-height: 4 !important;
+    
+
+}
+
+/* HOW IT WORKS BOX RIGHT */
+.howItWorks{
+    width: 80%;
+    border: 2px solid #ebebeb;
+    border-radius: 15px;
+    box-shadow: 0 4px 4px rgb(0 0 0 / 25%);
+}
+.howItWorksBox {
+    justify-content: right!important;
+    display: flex;
+}
+.howItWorksCont{
+    margin-left: 2rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    font-weight: 600;
+}
+
+.poFamiliStep{
+height: 2rem;
+width: 2rem;
+border-radius: 50%;
+margin-right: 0.3rem;
+display: flex;
+align-items: center;
+justify-content: center;
+color: #fff;
+}
+
+.howItWorksStepLine{
+    border-left: 2px solid #ebebeb;
+    height: 5rem;
+    margin-left: 1.7rem!important;
+    display: flex;
+    align-items: center;
+}
+
+.howItWorksStepCircle {
+    height: 10px;
+    width: 10px;
+    background-color: #ebebeb;
+    border-radius: 50%;
+    position: relative;
+    left: -6px;
+}
+
+.arrowDivLeft{
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+    margin-left: 25%;
+}
+
+@media only screen and (max-width: 768px)
+.investdiv {
+    margin-left: 0;
+    margin-right: 0;
+}
